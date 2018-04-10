@@ -1,0 +1,45 @@
+
+
+table
+{
+	background: white; text-align: center;
+}
+
+td
+{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	border-bottom: black solid 1px;
+	border-right: black solid 1px;
+}
+
+body
+{
+	background: black;
+}
+
+.Absolute-Center {
+  width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  border: solid black;
+}
+
+.ae
+{
+  margin-top: 150px;
+  line-height: normal;
+}
+
+img
+{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: right;
+	width: 70px;
+	height: 70px;
+}
